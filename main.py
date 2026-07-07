@@ -100,8 +100,9 @@ if "quiz_data" not in st.session_state:
             "choices": [
                 "a) Damit die Saege nicht seitlich verrutscht, wird die Saege beim Ansaegen so gefuehrt, dass kein Anstellwinkel entsteht.",
                 "b) Das Feilen einer Fuehrungskerbe an der Schnittstelle vor dem Saegevorgang erleichtert das Ansaegen.",
-                "c) Zum Ansaegen ist das Werkstueck so zu spannen, dass die Anreisslinie rechts vom Saegeblatt liegt.",
-                "d) Das Einhalten eines kleinen Anstellwinkels traegt ebenfalls zu einem sicheren Ansaegen des Saegeschnitts bei."
+                "c) Zum Ansaegen ist das Werkstueck so zu spannen, dass die Anreisslinie rechts vom Saegeblatt liegt - also links im Schraubstock spannen. Spaeter wird das Werkstueck dann auf die andere Seite des Schraubstocks gespannt.",
+                "d) Das Einhalten eines kleinen Anstellwinkels traegt ebenfalls zu einem sicheren Ansaegen des Saegeschnitts bei.",
+                "e) Das Ansaegen wird wesentlich erleichtert, wenn beim Rueckhub kraeftig auf das Saegeblatt gedrueckt wird, weil dadurch die Fuehrung der Saege erhalten bleibt."
             ],
             "correct": [
                 "b) Das Feilen einer Fuehrungskerbe an der Schnittstelle vor dem Saegevorgang erleichtert das Ansaegen.",
