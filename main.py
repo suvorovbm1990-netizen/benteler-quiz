@@ -86,14 +86,17 @@ if "quiz_data" not in st.session_state:
             ],
             "correct": ["Die Anreissplatte darf nur zum Anreissen and Messen benutzt werden."]
         },
-        {
+       {
             "question": "10. Warum muss bei den letzten Hueben vor dem Durchsaegen des Werkstuecks der Druck auf das Saegeblatt verringert werden?",
             "choices": [
-                "weil andernfalls das getrennte Werkstueck zu Boden faellt.",
-                "damit der Schnitt nicht am Ende verlaeuft.",
-                "damit Handverletzungen durch ein ploetzliches Abrutschen der Saege nach dem Durchsaegen vermieden werden."
+                "a) weil andernfalls das getrennte Werkstueck zu Boden faellt.",
+                "b) damit der Schnitt nicht am Ende verlaeuft.",
+                "c) damit das Saegeblatt nicht zu warm wird.",
+                "d) damit Handverletzungen durch ein ploetzliches Abrutschen der Saege nach dem Durchsaegen vermieden werden."
             ],
-            "correct": ["damit Handverletzungen durch ein ploetzliches Abrutschen der Saege nach dem Durchsaegen vermieden werden."]
+            "correct": [
+                "d) damit Handverletzungen durch ein ploetzliches Abrutschen der Saege nach dem Durchsaegen vermieden werden."
+            ]
         },
         {
             "question": "11. Wie wird ein Saegeschnitt am Werkstueck zweckmaessig angesaegt? Kreuzen Sie die beiden richtigen Antworten an.",
