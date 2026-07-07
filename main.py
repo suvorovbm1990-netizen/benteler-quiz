@@ -129,9 +129,12 @@ if "quiz_data" not in st.session_state:
         {
             "question": "14. Welche drei der nachstehenden Behauptungen ueber das Koernen sind zutreffend?",
             "choices": [
+                "a) Der Koerner wird leicht neben dem Anreisspunkt aufgesetzt...",
                 "b) Die Handkante wird beim Aufsetzen des Koerners auf das Werkstueck gelegt, damit der Koerner sicherer gefuehrt werden kann.",
                 "c) Der Koerner wird nach dem Aufsetzen aufgerichtet. Er muss dann senkrecht zur Werkstueckoberflaeche stehen.",
-                "e) Der Schlag mit dem Hammer muss genau in Richtung der Koernerachse erfolgen."
+                "d) Damit der Koerner nicht zu tief in das Werkstueck eindringt, ist seine Spitze nicht gehaertet.",
+                "e) Der Schlag mit dem Hammer muss genau in Richtung der Koernerachse erfolgen.",
+                "f) Der Koerner muss genau senkrecht aufgesetzt werden... Die Hand soll dabei das Werkstueck nicht beruehren."
             ],
             "correct": [
                 "b) Die Handkante wird beim Aufsetzen des Koerners auf das Werkstueck gelegt, damit der Koerner sicherer gefuehrt werden kann.",
