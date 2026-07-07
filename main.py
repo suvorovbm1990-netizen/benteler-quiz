@@ -80,11 +80,14 @@ if "quiz_data" not in st.session_state:
         {
             "question": "9. Kreuzen Sie die richtige Aussage (eine) ueber die Anreissplatte an!",
             "choices": [
-                "Die Anreissplatte wird wegen ihrer ebenen Oberflaeche vorzugsweise zum Richten von Halbzeugen benutzt.",
-                "Die Anreissplatte dient zum Koernen und Meisseln duenner Werkstuecke.",
-                "Die Anreissplatte darf nur zum Anreissen und Messen benutzt werden."
+                "a) Die Anreissplatte wird wegen ihrer ebenen Oberflaeche vorzugsweise zum Richten von Halbzeugen benutzt.",
+                "b) Die Anreissplatte dient zum Koernen und Meisseln duenner Werkstuecke.",
+                "c) Weil die Anreissplatte stets sauber zu halten ist, ist sie die geeignete Unterlage zum Einstauchen der Feilenangel in den Feilengriff.",
+                "d) Die Anreissplatte darf nur zum Anreissen und Messen benutzt werden."
             ],
-            "correct": ["Die Anreissplatte darf nur zum Anreissen and Messen benutzt werden."]
+            "correct": [
+                "d) Die Anreissplatte darf nur zum Anreissen und Messen benutzt werden."
+            ]
         },
        {
             "question": "10. Warum muss bei den letzten Hueben vor dem Durchsaegen des Werkstuecks der Druck auf das Saegeblatt verringert werden?",
