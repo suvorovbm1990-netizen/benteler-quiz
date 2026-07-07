@@ -112,8 +112,11 @@ if "quiz_data" not in st.session_state:
         {
             "question": "12. Welche drei Aussagen sind zutreffend? Anreissen / Stahlmassstab / Reissnadel.",
             "choices": [
+                "a) Der Stahlmassstab ist das genaueste Messwerkzeug in der Werkstatt und muss deshalb besonders pfleglich behandelt werden.",
                 "b) Der Stahlmassstab soll nicht verdreht und verbogen werden.",
                 "c) Das Stahllineal dient als Fuehrung der Reissnadel beim Anreissen.",
+                "d) Die Reissnadel wird beim Ziehen von Linien so gefuehrt, dass ihre Spitze vom Lineal weग्eneigt ist.",
+                "e) Die Reissnadel muss beim Anreissen mehrmals kraeftig in der gleichen Spur gezogen werden.",
                 "f) Zum Anreissen von harten Werkstoffen werden Stahlreissnadeln mit gehaerteten Spitzen verwendet.",
                 "g) Die Spitzen der Reissnadeln werden so schlank gefertigt, damit die Reissnadeln nicht als Koerner verwendet werden."
             ],
