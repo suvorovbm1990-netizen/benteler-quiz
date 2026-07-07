@@ -59,7 +59,8 @@ if "quiz_data" not in st.session_state:
                 "a) Der Saegeschnitt muss breiter als die Dicke des Saegeblatts sein, damit das Saegeblatt im Schlitz nicht klemmt.",
                 "b) Zweck des breiteren Saegeschlitzes ist es, die Druckkraft auf das Saegeblatt verringern zu koennen.",
                 "c) Der breitere Saegeschlitz entsteht durch geuebtes, schraeges Fuehren der Saege.",
-                "d) Der breitere Saegeschlitz wird durch das gewellte bzw. geschraenkte Saegeblatt automatisch erzeugt."
+                "d) Der breitere Saegeschlitz wird durch das gewellte bzw. geschraenkte Saegeblatt automatisch erzeugt.",
+                "e) Der breitere Saegeschlitz entsteht ausschliesslich durch falsche Fuehrung der Saege."
             ],
             "correct": [
                 "a) Der Saegeschnitt muss breiter als die Dicke des Saegeblatts sein, damit das Saegeblatt im Schlitz nicht klemmt.",
